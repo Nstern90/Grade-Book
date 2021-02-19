@@ -1,0 +1,32 @@
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\natst\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\natst\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\sternn\OneDrive - Chemtest Limited\Documents\GitHub\CSharp\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
